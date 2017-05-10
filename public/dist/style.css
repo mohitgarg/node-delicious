@@ -1102,7 +1102,8 @@ label {
   background: #FFC40E;
   color: #303030;
   font-family: 'Panama';
-  font-weight: 600; }
+  font-weight: 600;
+  margin-top: 15px; }
 
 .avatar {
   min-width: 50px;
