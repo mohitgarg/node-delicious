@@ -26,7 +26,9 @@ router.post('/account/forgot', catchErrors(authController.forgot))
 router.get('/account/reset/:token', catchErrors(authController.reset))
 router.post('/account/reset/:token',authController.confirmPasswords, catchErrors(authController.update))
 router.get('/map', storeController.mapPage)
+router.get('/hearts',catchErrors(storeController.getHearts) )
 router.get('/api/search',catchErrors(storeController.searchStores))
+router.post('/api/stores/:id/heart', catchErrors(storeController.heartStore))
 router.get('/api/stores/near',catchErrors(storeController.mapStores))
 
 module.exports = router;
