@@ -10,5 +10,5 @@ mixin storeCard(store = {})
 			h2.title
 				a(href=`/store/${store.slug}`) #{store.name}
 		.store__details
-			p=store.description.substring(0, 25)
+			p=store.description.substring(0, 30)
 			// We can also do split slice join to limit the description test
