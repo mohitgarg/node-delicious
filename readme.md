@@ -1,4 +1,4 @@
-# Delicious 
+# Delicious
 
 A full stack restaurant application which users can search, geolocate, review and curate their favourite restaurants from around the world.
 
@@ -18,12 +18,8 @@ _Maps page_
 
 Sample Email/ Passwords
 
+|Name|Email (login)|Password|
 |---|---|---|
-
 |Wes Bos|wes@example.com|wes|
-
 |Debbie Downer|debbie@example.com|debbie|
-
 |Beau|beau@example.com|beau|
-
-
