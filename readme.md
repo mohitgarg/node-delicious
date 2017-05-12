@@ -1,4 +1,4 @@
-#Delicious 
+# Delicious 
 
 A full stack restaurant application which users can search, geolocate, review and curate their favourite restaurants from around the world.
 
