@@ -32,6 +32,7 @@ jspm_packages
 .idea
 variables.env
 variables.env.now
+1.env
 
 # Optional npm cache directory
 .npm

@@ -18,8 +18,11 @@ _Maps page_
 Sample Email/ Passwords
 
 |---|---|---|
+
 |Wes Bos|wes@example.com|wes|
+
 |Debbie Downer|debbie@example.com|debbie|
+
 |Beau|beau@example.com|beau|
 
 
